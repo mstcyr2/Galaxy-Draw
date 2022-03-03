@@ -1,0 +1,4 @@
+moon 	 Point(24.0, 24.0)
+redPlanet 	 Point(17.0, 40.0)
+greenPlanet 	 Point(43.0, 31.0)
+star 	 Point(4.0, 29.0)
